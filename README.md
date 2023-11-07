@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 Here are some of the projects you can find in my repositories:
 
 - [Current Project](https://github.com/eeefimov/FreenanceProject.git) - A small web app to control your finances.
+- [Erp.Aero](https://erp.aero/) Test task: [link:](https://github.com/eeefimov/erp_aero)
 - [Diploma Project](https://github.com/eeefimov/Rostelecom.git) - It may not be the best project, but I made it. I applied testing techniques and principles and continue to improve my automation testing skills.
 - [API Project During Education](https://github.com/eeefimov/PetFriends_API_tests.git) - It's quite basic. I now apply my knowledge of API in the current project. There are currently issues with Swagger, but more tests are coming soon.
 
