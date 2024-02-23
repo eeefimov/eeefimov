@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🌐 Currently located in Slovenia.
 - 💼 I'm a QA Test Engineer with experience in both manual and automated testing.
-- 🐍 Skilled in Python, Selenium, PyTest, and various testing tools.
+- 🐍 Skilled in Python, Selenium, PyTest, Playwrigth and various testing tools.
 - 📚 I also have a background as an Information Technology Professor.
 - 🌟 Passionate about ensuring software quality and finding hidden issues.
 
